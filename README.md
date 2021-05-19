@@ -1,1 +1,1 @@
-# Super-resolution-of-images-using-sparse-coding-
+# Super resolution of images using Sparse coding 
